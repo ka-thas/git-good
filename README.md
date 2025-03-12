@@ -20,8 +20,10 @@ Samarbeidsarrangement med:
 
 - [Innhold](#innhold)
 - [Beskrivelse (samme som på Peoply og FB)](#beskrivelse-samme-som-på-peoply-og-fb)
-- [Ekstra info til Nybegynnerkurset](#ekstra-info-til-nybegynnerkurset)
+- [Ekstra info til Rookie-kurset](#ekstra-info-til-rookie-kurset)
   - [Prøv dette før workshopen](#prøv-dette-før-workshopen)
+
+[Her finner dere opplegget som ble gjennomgått](https://github.com/ka-thas/git-good/blob/main/rookie-opplegg.md)
 
 ## Beskrivelse (samme som på Peoply og FB)
 
@@ -36,7 +38,7 @@ Bli med for å få hands-on erfaring i Git og plattformen GitHub.
 
 Begge kursene går samtidig så dere må selv velge hvilken som passer erfaringsnivået ditt og melde deg på her: [**https://nettskjema.no/a/gitgood**](https://nettskjema.no/a/gitgood)
 
-## Ekstra info til Nybegynnerkurset
+## Ekstra info til Rookie-kurset
 
 Kommandoene dere skal lære:
 
