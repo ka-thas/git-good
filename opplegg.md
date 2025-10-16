@@ -76,7 +76,7 @@ Hjelp naboen hvis de står fast
 
 ## Oppgave 1
 
-[oppgaveteksten](./oppgaver.md/#level-1)
+[oppgaveteksten](./oppgaver.md/#level-1---baby-steps-)
 
 ## Litt om .git mappen og .gitignore
 
@@ -84,7 +84,7 @@ Veeeldig lite. Så vidt dyppe tærne.
 
 ## Oppgave 2
 
-[oppgaveteksten](./oppgaver.md/#level-2)
+[oppgaveteksten](./oppgaver.md/#level-2---samarbeid-med-git-)
 
 ## Branching
 

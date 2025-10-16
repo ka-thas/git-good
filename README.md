@@ -1,4 +1,4 @@
-![Git Good banner](assets/git-good-banner.png)
+![Git Good banner](assets/git-good-banner-2.png)
 
 <!-- 
 # Git Good
@@ -20,7 +20,7 @@ Samarbeidsarrangement med:
 
 - [Innhold](#innhold)
 - [Beskrivelse (samme som på Peoply og FB)](#beskrivelse-samme-som-på-peoply-og-fb)
-- [Ekstra info til Rookie-kurset](#ekstra-info-til-rookie-kurset)
+- [Ekstra info](#ekstra-info)
   - [Prøv dette før workshopen](#prøv-dette-før-workshopen)
 
 [Her finner dere opplegget som ble gjennomgått](https://github.com/ka-thas/git-good/blob/main/rookie-opplegg.md)
@@ -34,11 +34,8 @@ Har du lyst til å få innføring i verdens mest brukte versjonskontrollsystem, 
 Bli med for å få hands-on erfaring i Git og plattformen GitHub.
 
 - Ka Thas skal holde workshop for nybegynnere der man får hjelp med oppsett, lage repo, clone, samarbeid, tips og triks, og best practices. Møt opp på `seminarrom Logo`.
-- Stian Sundkvist holder workshop for viderekomne git-brukere, de som har kontroll på basics, men gjerne vil lære hvordan dette brukes i større prosjekter. Møt opp på `seminarrom Java`.
 
-Begge kursene går samtidig så dere må selv velge hvilken som passer erfaringsnivået ditt og melde deg på her: [**https://nettskjema.no/a/gitgood**](https://nettskjema.no/a/gitgood)
-
-## Ekstra info til Rookie-kurset
+## Ekstra info
 
 Kommandoene dere skal lære:
 
