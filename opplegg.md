@@ -5,21 +5,28 @@ Hei 👋 jeg heter Ka og skal guide dere gjennom dette git-eventyret 📜
 
 - Robotikk 3. året
 - FUI
-- Gruppelærer IN2140
+- Gruppelærer IN2010, IN2140, IN1080, IN1000
 
 ## Menti.com
 
-Still spørsmål underveis!1111!!!!!
+Still spørsmål underveis!11!!!!!
+Rekk opp hånden, din feiging
 
 ## Hvorfor lære Git?
 
 Relevant for
 
 - IN2000 - Samarbeid
-- IN2140 - Oblig 2 og HE
+  - Dere trenger å bli kjent med de vanligste feilene før 2000
+  - 20stp * 6 pers på gruppa = 120stp (Høye stakes)
+  - Når man kommer til IN2000 tør man ikke å utforske git fordi man er redd for å gjøre noe feil og fakke opp hele prosjektet
+- IN2140 - Samarbeid i Obligene og hjemme-eksamen
 - IN1010 - Oblig 4 + lurt og være tidlig ute
 - Egne prosjekter
+  - Lurt for å starte egne prosjekter
+  - Bidra i open-source prosjekter
 - Arbeidslivet ←
+  - Alle jobbintervjuer spør om du har kjennskap til git og tester forståelsen din av git som et verktøy
 
 ### Hva er git?
 
@@ -35,7 +42,10 @@ Et verktøy som løser et problem
   - `oblig3 final v2 FINAL frfr.docx`
   - `oblig3 final v2 FINAL i_swear.docx`
 
-- Tegne graf
+![](assets/mario.jpg)
+Hver git *commit* har samme formål som flagget i Mario. Når du dør så kan du fortsette fra flagget, som er mye deiligere enn å starte fra starten av banen.
+![](assets/time-travel.jpg)
+Git kan også minne om tidsreise. 
 
 Fun facts
 
@@ -109,25 +119,20 @@ Hvordan unngår man det?
 
 ## Git-veien videre
 
-- Fork andres prosjekter
-- Håndtere merge conflicts
+- Lag et repo for hvert semester/emne/oblig
+  - avhengig av hvor mye du vil øve
+  - Husk å holde dem private
+- Fork andres prosjekter #opensource
 - Gjør ferdig [oppgavene](oppgaver.md)
-- Blame
-- Diff
+- Lær dere selv:
+  - håndtere merge conflicts
+  - Blame
+  - Diff
 
 > [!TIP]
-> Dette overasker ingen, men din friendly neighborhood LLM kan også lære deg git kommandoer
+> Din friendly neighborhood LLM kan også lære deg git kommandoer
 
 ## Closing words
 
 Håper dere har lært noe nytt, og blitt litt flittigere med git ~
 
-Ønsker dere flere lignende arrangementer? Send en mail til <kavint@ififui.no> med hva dere er interessert i
-
-Jeg kan selv by på web dev, hoste nettside, reprise av Git Good, 3D printing, laserkutting
-
-Men hvis dere vil lære noe annet kan jeg finne noen til det og!
-
-Bokskapene i bygget blir klippet til helga, så betal nå hvis du ikke har gjort det ennå.
-
-Husk å svare kursevalueringene! [Les alle tidligere KE her](https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/fui/kursevaluering/)

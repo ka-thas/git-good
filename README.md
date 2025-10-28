@@ -1,39 +1,23 @@
 ![Git Good banner](assets/git-good-banner-2.png)
 
-<!-- 
-# Git Good
-
-> Sted: Java og Logo (Se beskrivelse)
->
-> Dato: Onsdag 12. mars
->
-> Tid: 16:15 - 18:00
-
-Samarbeidsarrangement med:
-
-- FUI - Fagutvalget ved Intitutt for Informatikk
-- Mikro - Linjeforeningen for Robotikk og Intelligent Systemer
-- Progsys - Linjeforeningen for Programmering og Systemarkitektur
- -->
-
 ## Innhold
 
 - [Innhold](#innhold)
-- [Beskrivelse (samme som på Peoply og FB)](#beskrivelse-samme-som-på-peoply-og-fb)
+- [Beskrivelse](#beskrivelse)
 - [Ekstra info](#ekstra-info)
-  - [Prøv dette før workshopen](#prøv-dette-før-workshopen)
+  - [Prøv dette før du møter opp](#prøv-dette-før-du-møter-opp)
 
 [Her finner dere opplegget som ble gjennomgått](https://github.com/ka-thas/git-good/blob/main/rookie-opplegg.md)
 
-## Beskrivelse (samme som på Peoply og FB)
+## Beskrivelse
 
 Velkommen til Git Good!
 
 Har du lyst til å få innføring i verdens mest brukte versjonskontrollsystem, og gjøre deg klar til arbeidslivet?
 
 Bli med for å få hands-on erfaring i Git og plattformen GitHub.
-
-- Ka Thas skal holde workshop for nybegynnere der man får hjelp med oppsett, lage repo, clone, samarbeid, tips og triks, og best practices. Møt opp på `seminarrom Logo`.
+ 
+Dette repoet er et supplement til arrangementet som holdes fysisk
 
 ## Ekstra info
 
@@ -54,7 +38,7 @@ git branch
 git merge
 ```
 
-### Prøv dette før workshopen
+### Prøv dette før du møter opp
 
 Det er ikke farlig om du ikke får det til
 
@@ -83,12 +67,14 @@ $git --version
 Du kan nå teste git ved å lage en ny mappe og opprette et repo
 
 ```bash
-$mkdir test-git
-$cd test-git
-$git init
+$ mkdir test-git # lag en mappe
+$ cd test-git # gå inn i mappen
+$ git init # initialiser et git repo
 
-$echo tester git  >> README.md
+$ echo tester git  >> README.md # opprett fil
 
-$git add .
-$git commit -m "initial commit"
+$ git add . # Legg alle endringer i git
+$ git commit -m "initial commit" # Lag din første commit
 ```
+
+Hvis du har fått til alt dette så har du nå brukt git lokalt, og er på god vei til å bli en git mester!
