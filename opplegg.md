@@ -1,11 +1,11 @@
 <!-- Flytt ut av secrets etter opplegget -->
 # Velkommen til Git Good 🌱
 
-Hei 👋 jeg heter Ka og skal guide dere gjennom dette git-eventyret 📜
-
-- Robotikk 3. året
-- FUI
+- Ka Thas
+- Robotikk 4. året
 - Gruppelærer IN2010, IN2140, IN1080, IN1000
+- Ansatt på Sonen for Eksperimentell Informatikk
+- FUI styremedlem
 
 ## Menti.com
 
@@ -60,8 +60,9 @@ Fun facts
 ### Hva er GitHub da?
 
 - Kun en nettside/server som tar vare på filene dine
-- Litt som iCloud, OneDrive, og Google Drive
-- Har profiler
+- Du kan ha *videoer* uten YouTube, right?
+  - På samme måte kan man ha Git uten GitHub 
+- Har brukere/profiler
 - forks
 
 ![git](assets/Git_icon.png)

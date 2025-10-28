@@ -1,13 +1,12 @@
 ![Git Good banner](assets/git-good-banner-2.png)
 
-## Innhold
+## Innhold 
 
 - [Innhold](#innhold)
 - [Beskrivelse](#beskrivelse)
 - [Ekstra info](#ekstra-info)
   - [Prøv dette før du møter opp](#prøv-dette-før-du-møter-opp)
 
-[Her finner dere opplegget som ble gjennomgått](https://github.com/ka-thas/git-good/blob/main/rookie-opplegg.md)
 
 ## Beskrivelse
 
@@ -18,6 +17,8 @@ Har du lyst til å få innføring i verdens mest brukte versjonskontrollsystem, 
 Bli med for å få hands-on erfaring i Git og plattformen GitHub.
  
 Dette repoet er et supplement til arrangementet som holdes fysisk
+
+[Her finner dere opplegget som ble/blir gjennomgått](https://github.com/ka-thas/git-good/blob/main/rookie-opplegg.md)
 
 ## Ekstra info
 
@@ -60,8 +61,8 @@ For å sjekke om du allerede har git eller om nedlasting var vellykket kjør kom
 `git --version` i terminalen
 
 ```bash
-$git --version
->git version 2.39.5 (Apple Git-154)
+$ git --version
+> git version 2.39.5 (Apple Git-154)
 ```
 
 Du kan nå teste git ved å lage en ny mappe og opprette et repo
